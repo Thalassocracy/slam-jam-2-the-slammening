@@ -3,7 +3,7 @@
     "build": "113132",
     "context": "server",
     "date": "2019-04-28",
-    "description": "Welcome to the Slam Jam. Server Edition.",
+    "description": "Cosmetic changes for Slammer Projectiles; implemented by loading Slam Jam as a Companion.",
     "display_name": "Slam Jam 2 - The Slammening",
     "forum": "https://forums.planetaryannihilation.com/threads/slam-jam-2-the-slammening.73360/",
     "identifier": "com.pa.dissonant.slamjam-server-c",
