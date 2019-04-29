@@ -1,0 +1,16 @@
+{
+    "author": "billthebluebot, Luther, Dissonant",
+    "build": "112314",
+    "context": "server",
+    "date": "2019-04-28",
+    "description": "Welcome to the Slam Jam. Server Edition.",
+    "display_name": "Slam Jam 2 - The Slammening",
+    "forum": "https://forums.planetaryannihilation.com/threads/slam-jam-2-the-slammening.73360/",
+    "identifier": "com.pa.dissonant.slamjam-server-c",
+    "signature": "not yet implemented",
+    "version": "1.0.0",
+    "icon": "https://i.imgur.com/U5FpaX2.png",
+    "priority": 100,
+    "dependencies": ["com.pa.billthebluebot.slamjam"],
+    "companions": ["com.pa.billthebluebot.slamjam"]
+}
